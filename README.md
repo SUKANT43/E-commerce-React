@@ -44,5 +44,5 @@ State management using Context API.
 
 <br/>
 
-## License:
+
 
